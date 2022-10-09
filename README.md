@@ -7,8 +7,9 @@ Make sure you have Python 3.8.0 or newer and Raylib Python installed on your PC.
 ```
 python3 -m pip install raylib
 ```
-After that, you can navigat to the greed folder and launch the game by typing```
+After that, you can navigat to the greed folder and launch the game by typing
 
+```
 python3 __main__.py
 ```
 
